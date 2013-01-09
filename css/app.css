@@ -2,8 +2,9 @@ header {
 	font-size: 15em;
 }
 p {
-	color: #87CEFA;
+	color: #87CEFA; font-family: helvetica;
 }
 footer {
 	font-size: .5em;
 }
+
